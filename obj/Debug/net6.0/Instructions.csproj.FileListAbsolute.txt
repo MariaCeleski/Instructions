@@ -1,0 +1,15 @@
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\bin\Debug\net6.0\Instructions.exe
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\bin\Debug\net6.0\Instructions.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\bin\Debug\net6.0\Instructions.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\bin\Debug\net6.0\Instructions.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\bin\Debug\net6.0\Instructions.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\refint\Instructions.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\Instructions.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\Instructions\obj\Debug\net6.0\ref\Instructions.dll
